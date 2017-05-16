@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "digitec",
+  "description": "DIGITEC 2.0 source",
+  "author": "INNO",
+  "license": "EUPL-1.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ec-europa/digitec.git"
+  },
+  "keywords": [
+    "digitec",
+    "gatsby",
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/ec-europa/digitec/issues"
+  },
+  "homepage": "https://github.com/ec-europa/digitec#readme"
+}
