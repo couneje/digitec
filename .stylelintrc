@@ -1,0 +1,17 @@
+{
+  "extends": "stylelint-config-standard",
+  "plugins": [
+    "stylelint-no-unsupported-browser-features"
+  ],
+  "rules": {
+    "color-hex-case": "upper",
+    "string-quotes": "single",
+    "font-family-name-quotes": "always-where-recommended",
+    "indentation": 2,
+    "selector-pseudo-class-no-unknown": [true, {
+      "ignorePseudoClasses": ["global"]
+      }
+    ],
+    "plugin/no-unsupported-browser-features": [true, { "severity": "warning" }]
+  }
+}

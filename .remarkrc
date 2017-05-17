@@ -1,0 +1,9 @@
+{
+  "presets": ["lint-recommended"],
+  "plugins": {
+    "lint": {
+      "list-item-indent": false,
+      "maximum-line-length": 80
+    }
+  }
+}

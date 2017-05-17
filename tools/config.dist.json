@@ -1,0 +1,11 @@
+{
+  "dev": {
+    "basename": "",
+    "publicPath": "/",
+    "server": "http://localhost:3000"
+  },
+  "prod": {
+    "basename": "/digitec",
+    "publicPath": "/digitec/"
+  }
+}

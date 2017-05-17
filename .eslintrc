@@ -1,0 +1,25 @@
+{
+  "root": true,
+  "parser": "babel-eslint",
+  "extends": [
+    "airbnb",
+    "prettier",
+    "prettier/react"
+  ],
+  "plugins": [
+    "json",
+    "compat",
+    "prettier"
+  ],
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "globals": {
+    "__BASENAME__": true
+  },
+  "rules": {
+    "compat/compat": 2,
+    "prettier/prettier": ["error", {"trailingComma": "es5", "singleQuote": true}]
+  }
+}

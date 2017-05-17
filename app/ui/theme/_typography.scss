@@ -1,0 +1,34 @@
+/*
+ * Typography
+ */
+$typi: (
+  base: (
+    null: (15px, 1.6),
+    small: (16px, 1.6),
+    medium: (18px, 1.6),
+  ),
+  h1: (
+    null: (36px, 1.6),
+    medium: (48px, 1.6)
+  ),
+  h2: (
+    null: (30px, 1.6),
+    medium: (40px, 1.6)
+  ),
+  h3: (
+    null: (24px, 1.6),
+    medium: (31px, 1.6)
+  ),
+  h4: (
+    null: (20px, 1.6),
+    medium: (25px, 1.6)
+  ),
+  h5: (
+    null: (18px, 1.6),
+    medium: (20px, 1.6)
+  ),
+  h6: (
+    null: (15px, 1.6),
+    medium: (16px, 1.6)
+  ),
+);

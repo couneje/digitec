@@ -1,0 +1,17 @@
+{
+  "name": "DIGITEC 2016",
+  "short_name": "DIGITEC",
+  "start_url": "/digitec/my-digitec",
+  "scope": "/digitec/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8FAFA",
+  "theme_color": "#F8FAFA",
+  "icons": [
+    {
+      "src": "./android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
